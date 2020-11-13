@@ -5,3 +5,5 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+page1 = Page.create(content: 'this is a test', image_url: ' ', path_id: 1, encounter: false, enemy_hp: 0, trap: false, trap_save: 0)
+
